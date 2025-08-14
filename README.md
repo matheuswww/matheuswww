@@ -7,4 +7,4 @@
 - Next.js
 
 ### 📫 How to reach me
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/matheus-melo-30480534b/)
